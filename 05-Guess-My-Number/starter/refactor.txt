@@ -1,0 +1,28 @@
+// guess is too high
+    // else if (check > number) {
+    //     if (score > 1) {
+    //         document.querySelector('.message').textContent = "Too high ❗"
+    //         score--;
+    //         document.querySelector('.score').textContent = score;
+    //     }
+    //     else {
+    //         document.querySelector('.message').textContent = "You Lost the game😭"
+    //         score = 0;
+    //         document.querySelector('.score').textContent = score;
+    //     }
+
+    // }
+    // // guess is too low
+    // else if (check < number) {
+    //     if (score > 1) {
+    //         document.querySelector('.message').textContent = "Too Low ❕"
+    //         score--;
+    //         document.querySelector('.score').textContent = score;
+    //     }
+    //     else {
+    //         document.querySelector('.message').textContent = "You Lost the game😭"
+    //         score = 0;
+    //         document.querySelector('.score').textContent = score;
+    //     }
+
+    // }
